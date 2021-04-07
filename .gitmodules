@@ -1,0 +1,3 @@
+[submodule "sampleSvc"]
+	path = sampleSvc
+	url = git@github.com:logan-sea/sample-svc.git
